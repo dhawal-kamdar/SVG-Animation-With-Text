@@ -1,1 +1,1 @@
-# SVG-Animation-With-Text
+# SVG-Animation-with-Text
